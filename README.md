@@ -2,7 +2,7 @@
   <img src="gif1.gif" width="40%" height="15%"/>
 </div>
 
-## Hi 👋, I am Omkar Makholkar, a Data ❤ Enthusiast. 
+## Hi 👋, I am Omkar Madkholkar, a Data ❤ Enthusiast. 
 <img  src="./borderseperator.gif">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/omkar-madkholkar-860a8a216/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/omkarmadkholkar/) [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:omadkholkar@gmail.com )
